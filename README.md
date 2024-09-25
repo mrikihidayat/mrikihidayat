@@ -10,7 +10,7 @@
 
 ### Github Statistic
 <p align="left">
-    <a href="https://github.com/nanaachan12">
+    <a href="https://github.com/mrikihidayat">
         <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mrikihidayat&show_icons=true&locale=en&layout=compact" alt="mrikihidayat" />
         <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mrikihidayat&show_icons=true&include_all_commits=true&count_private=true" alt="mrikihidayat"/>
     </a>
